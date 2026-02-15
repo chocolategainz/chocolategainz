@@ -1,5 +1,8 @@
 ## Hello there! My name is Aaron. Welcome 👋
 
+A passionate frontend developer from London, UK.
+
+All of my projects are available at chocolategainz
 <!--
 **chocolategainz/chocolategainz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
