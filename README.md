@@ -28,13 +28,7 @@ Langauges & Tools:
 <img width="50" height="50" alt="physics" src="https://github.com/user-attachments/assets/41c65b9f-b0d6-453b-9cd3-c646072ca105" />
 <img width="50" height="50" alt="Next js" src="https://github.com/user-attachments/assets/14103917-26e4-4e4c-a450-d026b5e12d6f" />
 <img width="50" height="50" alt="Tailwind CSS" src="https://github.com/user-attachments/assets/7811fd51-e313-4b88-b780-ca028e5723f1" />
-<img width="50" height="50" alt="R" src="https://github.com/user-attachments/assets/0f53ef80-c7aa-4242-bfd4-200cf2b9cefb" />
-<img width="50" height="50" alt="WordPress" src="https://github.com/user-attachments/assets/4c410ac7-2c07-4d93-a8b4-e9b40d81e1ba" />
-<img width="50" height="50" alt="Firebase" src="https://github.com/user-attachments/assets/1391b0c0-480a-4211-a3d6-0c7f97276223" />
-<img width="50" height="50" alt="bootstrap" src="https://github.com/user-attachments/assets/0f988f8f-6648-4ea0-97eb-e84751913820" />
-
-
-
+<img width="50" height="50" alt="Three js" src="https://github.com/user-attachments/assets/1b08bbff-a9ce-42dd-b6a7-2a7049ce21f7" />
 
 
 
